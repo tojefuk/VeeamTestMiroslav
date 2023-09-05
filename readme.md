@@ -11,7 +11,7 @@ In your current python venv
 
 `pip install webdrivermanager==0.10.0`
 
-`webdrivermanager firefox chrome --linkpath <ABSOLUTE_PATH_TO_PROJECT_ROOT>webDrivers`
+`webdrivermanager firefox chrome --linkpath <ABSOLUTE_PATH_TO_PROJECT_ROOT>/webDrivers`
 
 Usage example
 --------------------
